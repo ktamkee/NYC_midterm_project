@@ -18,4 +18,6 @@
 - DBSCAN
 - Hierarchical Structuring
 
-### Endpoints and 
+### Possible Transport Data:
+MTA Endpoints
+Google Directions
