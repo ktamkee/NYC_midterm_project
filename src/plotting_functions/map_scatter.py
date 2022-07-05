@@ -10,5 +10,5 @@ def map_scatter(data, latitude='latitude', longitude='longitude', hover_name='ne
     fig = px.scatter_mapbox(data, lat=latitude, lon=longitude, hover_name=hover_name, color=color,
                             height=500)
     fig.update_geos(fitbounds="locations")
-    fig.update_layout(mapbox_style="light", mapbox_accesstoken=maptoken, margin={"r":0,"t":0,"l":0,"b":0})
+    fig.update_layout(mapbox_style="dark", mapbox_accesstoken=maptoken, margin={"r":0,"t":0,"l":0,"b":0})
     fig.show()
