@@ -2,7 +2,7 @@ import os
 import plotly.express as px
 
 
-def map_scatter(data=clustered_data, latitude='latitude', longitude='longitude', hover_name='neighborhood', color='cluster')
+def map_scatter(data=clustered_data, latitude='latitude', longitude='longitude', hover_name='neighborhood', color='cluster'):
     # Define mapbox token
     maptoken = os.environ["MAPBOX_TOKEN"]
 
