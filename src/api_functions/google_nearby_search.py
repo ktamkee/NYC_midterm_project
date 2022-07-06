@@ -37,7 +37,7 @@ def gPlaceSearch(latitude, longitude, radius, query):
     ## Check for next page to be added to response list
     try:
         next_page_token = response.json()['next_page_token']
-        time.sleep(1)
+        time.sleep(2)
         # while len(next_page_token) > 10:
         while next_page_token:
 
@@ -49,7 +49,7 @@ def gPlaceSearch(latitude, longitude, radius, query):
             next_response = requests.get(google_url, params=next_page_params)
             response_list.append(next_response.json())
 
-            time.sleep(1)
+            time.sleep(2)
 
             ## Assign New Token, if doesn't exist, return
             try:
