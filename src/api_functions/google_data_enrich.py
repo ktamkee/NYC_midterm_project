@@ -1,6 +1,6 @@
 from google_nearby_search import gPlaceSearch
 
-def googleEnrich(df=nyc, radius=500, query='restaurant'):
+def googleEnrich(df=nyc, radius=1000, query='restaurant'):
     """
     Takes a dataframe and returns an enriched copy of the df
 
