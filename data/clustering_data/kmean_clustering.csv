@@ -1,0 +1,307 @@
+borough,neighborhood,longitude,latitude,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,clusters
+Bronx,Wakefield,-73.84720052054902,40.89470517661,church,restaurant,store,school,clothing,3
+Bronx,Co-op City,-73.82993910812398,40.87429419303012,restaurant,store,clothing,school,church,3
+Bronx,Eastchester,-73.82780644716412,40.887555677350775,store,restaurant,church,school,clothing,3
+Bronx,Fieldston,-73.90564259591682,40.89543742690383,restaurant,school,bank,park,store,4
+Bronx,Riverdale,-73.9125854610857,40.890834493891305,school,bank,restaurant,store,park,4
+Bronx,Kingsbridge,-73.90281798724604,40.88168737120521,store,restaurant,school,bank,park,1
+Manhattan,Marble Hill,-73.91065965862981,40.87655077879964,restaurant,store,school,bank,park,1
+Bronx,Woodlawn,-73.86731496814176,40.89827261213805,restaurant,store,bar,church,bank,4
+Bronx,Norwood,-73.8793907395681,40.87722415599446,restaurant,store,school,church,supermarket,1
+Bronx,Williamsbridge,-73.85744642974207,40.88103887819211,restaurant,church,store,school,clothing,3
+Bronx,Baychester,-73.83579759808117,40.866858107252696,restaurant,store,clothing,church,school,3
+Bronx,Pelham Parkway,-73.85475564017999,40.85741349808865,restaurant,store,school,bank,church,4
+Bronx,City Island,-73.78648845267413,40.84724670491813,restaurant,store,seafood,tradamerican,park,0
+Bronx,Bedford Park,-73.8855121841913,40.870185164975325,restaurant,store,school,church,clothing,1
+Bronx,University Heights,-73.9104159619131,40.85572707719664,restaurant,school,church,store,clothing,1
+Bronx,Morris Heights,-73.91967159119565,40.84789792606271,restaurant,school,church,store,clothing,1
+Bronx,Fordham,-73.89642655981623,40.86099679638654,school,church,store,clothing,restaurant,1
+Bronx,East Tremont,-73.88735617532338,40.84269615786053,school,church,store,restaurant,clothing,1
+Bronx,West Farms,-73.87774474910545,40.83947505672653,restaurant,church,store,school,clothing,1
+Bronx,High  Bridge,-73.9261020935813,40.836623010706056,school,restaurant,church,store,clothing,1
+Bronx,Melrose,-73.90942160757436,40.819754370594936,church,store,restaurant,clothing,park,1
+Bronx,Mott Haven,-73.91609987487575,40.80623874935177,school,store,restaurant,church,clothing,1
+Bronx,Port Morris,-73.91322139386135,40.801663627756206,restaurant,store,school,church,mexican,4
+Bronx,Longwood,-73.8957882009446,40.81509904545822,store,school,restaurant,clothing,church,1
+Bronx,Hunts Point,-73.88331505955291,40.80972987938709,store,restaurant,church,school,park,0
+Bronx,Morrisania,-73.90150648943059,40.82359198585534,restaurant,school,church,store,supermarket,1
+Bronx,Soundview,-73.86574609554924,40.821012197914015,restaurant,store,school,church,clothing,3
+Bronx,Clason Point,-73.85414416189266,40.80655112003589,store,church,restaurant,park,school,0
+Bronx,Throgs Neck,-73.81635002158441,40.81510925804005,restaurant,store,bar,church,park,0
+Bronx,Country Club,-73.8240992675385,40.844245936947374,restaurant,store,church,school,bank,4
+Bronx,Parkchester,-73.85600310535783,40.837937822267286,church,store,restaurant,school,clothing,1
+Bronx,Westchester Square,-73.84219407604444,40.8406194964327,restaurant,store,school,bank,clothing,1
+Bronx,Van Nest,-73.8662991807561,40.84360847124718,restaurant,store,church,school,bank,1
+Bronx,Morris Park,-73.85040178030421,40.847549063536334,restaurant,church,store,school,bank,4
+Bronx,Belmont,-73.88845196134804,40.85727710073895,school,church,store,clothing,bank,2
+Bronx,Spuyten Duyvil,-73.91719048210393,40.88139497727086,restaurant,store,school,bank,park,4
+Bronx,North Riverdale,-73.90453054908927,40.90854282950666,restaurant,store,school,church,park,0
+Bronx,Pelham Bay,-73.8320737824047,40.85064140940335,restaurant,store,bank,church,school,4
+Bronx,Schuylerville,-73.82620275994073,40.82657951686922,restaurant,store,school,bar,church,4
+Bronx,Edgewater Park,-73.81388514428619,40.82198611816349,restaurant,store,bar,school,pizza,4
+Bronx,Castle Hill,-73.84802729582735,40.81901437698832,school,store,restaurant,church,clothing,3
+Bronx,Olinville,-73.86332361652777,40.87137078192371,church,store,restaurant,school,clothing,3
+Bronx,Pelham Gardens,-73.84161194831223,40.86296562477998,restaurant,clothing,church,store,bank,3
+Bronx,Concourse,-73.91558941773444,40.83428380733851,school,church,store,restaurant,clothing,1
+Bronx,Unionport,-73.85053524451935,40.82977429787161,restaurant,store,school,church,clothing,1
+Bronx,Edenwald,-73.84808271877168,40.88456130303732,church,restaurant,store,school,bank,3
+Brooklyn,Bay Ridge,-74.03062069353813,40.625801065010656,store,restaurant,bank,clothing,church,4
+Brooklyn,Bensonhurst,-73.99517998380729,40.61100890202044,restaurant,store,bank,school,supermarket,4
+Brooklyn,Sunset Park,-74.01031618527784,40.64510294925429,restaurant,church,store,school,supermarket,2
+Brooklyn,Greenpoint,-73.95424093127393,40.7302009848647,restaurant,bar,store,clothing,church,2
+Brooklyn,Gravesend,-73.97347087708445,40.59526001306593,restaurant,store,school,clothing,church,4
+Brooklyn,Brighton Beach,-73.96509448785336,40.57682506566604,restaurant,store,clothing,school,supermarket,4
+Brooklyn,Sheepshead Bay,-73.94318640482979,40.58689012678384,restaurant,store,school,clothing,office,4
+Brooklyn,Manhattan Terrace,-73.95743840559939,40.61443251335098,restaurant,clothing,school,store,bank,4
+Brooklyn,Flatbush,-73.95840106533903,40.63632589026677,church,store,restaurant,school,clothing,1
+Brooklyn,Crown Heights,-73.94329119073582,40.67082917695294,school,church,store,clothing,restaurant,1
+Brooklyn,East Flatbush,-73.93610256185836,40.64171776668961,church,store,restaurant,school,clothing,3
+Brooklyn,Kensington,-73.98042110559474,40.642381958003526,store,clothing,restaurant,school,bank,4
+Brooklyn,Windsor Terrace,-73.98007340430172,40.65694583575104,restaurant,store,bar,school,church,4
+Brooklyn,Prospect Heights,-73.9648592426269,40.67682226225472,school,bar,church,store,restaurant,2
+Brooklyn,Brownsville,-73.91023536176607,40.66394994339755,school,restaurant,church,store,clothing,3
+Brooklyn,Williamsburg,-73.95811529220927,40.70714439344251,restaurant,school,bar,store,clothing,2
+Brooklyn,Bushwick,-73.92525797487045,40.69811611017901,school,bar,church,store,restaurant,2
+Brooklyn,Bedford Stuyvesant,-73.94178488690297,40.687231607720456,store,school,church,restaurant,bar,2
+Brooklyn,Brooklyn Heights,-73.99378225496424,40.69586372272408,school,clothing,restaurant,bank,park,2
+Brooklyn,Cobble Hill,-73.99856139218463,40.68791972248557,school,store,restaurant,clothing,bank,2
+Brooklyn,Carroll Gardens,-73.99465372828006,40.680540231076485,restaurant,bar,school,clothing,store,2
+Brooklyn,Red Hook,-74.0127589747356,40.676253230250886,restaurant,store,school,bar,church,0
+Brooklyn,Gowanus,-73.99444087145339,40.673931143187154,restaurant,store,school,church,bank,2
+Brooklyn,Fort Greene,-73.97290574369092,40.68852726018977,school,church,restaurant,bar,store,2
+Brooklyn,Park Slope,-73.97705030183924,40.67232052268197,restaurant,bar,store,church,school,2
+Brooklyn,Cypress Hills,-73.87661596457296,40.68239101144211,restaurant,store,supermarket,school,clothing,1
+Brooklyn,East New York,-73.88069863917366,40.669925700847045,restaurant,store,school,church,supermarket,3
+Brooklyn,Starrett City,-73.87936970045875,40.64758905230874,store,restaurant,clothing,school,tradamerican,4
+Brooklyn,Canarsie,-73.90209269778966,40.63556432797428,restaurant,church,store,school,clothing,3
+Brooklyn,Flatlands,-73.92911302644674,40.630446043757466,restaurant,church,store,school,bank,3
+Brooklyn,Mill Island,-73.90818571777423,40.606336421685626,clothing,store,restaurant,bank,school,0
+Brooklyn,Manhattan Beach,-73.94353722891886,40.57791350308657,restaurant,store,clothing,school,bar,4
+Brooklyn,Coney Island,-73.98868295821637,40.57429256471601,restaurant,store,church,bank,clothing,4
+Brooklyn,Bath Beach,-73.99875221443519,40.59951870282238,restaurant,store,school,supermarket,clothing,4
+Brooklyn,Borough Park,-73.99049823044811,40.633130512758015,restaurant,store,clothing,school,bank,4
+Brooklyn,Dyker Heights,-74.01931375636022,40.61921945772264,restaurant,store,bank,school,church,4
+Brooklyn,Gerritsen Beach,-73.93010170691196,40.590848433902046,store,restaurant,school,bank,bar,4
+Brooklyn,Marine Park,-73.93134404108497,40.609747779894604,restaurant,store,clothing,church,bank,4
+Brooklyn,Clinton Hill,-73.96784306216367,40.693229421881504,store,restaurant,school,church,bar,2
+Brooklyn,Sea Gate,-74.0078731120024,40.57637537890224,store,restaurant,school,church,park,0
+Brooklyn,Downtown,-73.98346337431099,40.69084402109802,school,bar,church,bank,store,2
+Brooklyn,Boerum Hill,-73.98374824115798,40.68568291209144,restaurant,school,bar,church,bank,5
+Brooklyn,Prospect Lefferts Gardens,-73.95489867077713,40.658420017469815,restaurant,church,store,school,clothing,2
+Brooklyn,Ocean Hill,-73.91306831787395,40.67840255479536,church,store,restaurant,school,clothing,3
+Brooklyn,City Line,-73.86797598081334,40.67856995727479,store,restaurant,church,supermarket,clothing,1
+Brooklyn,Bergen Beach,-73.89855633630317,40.61514955045308,restaurant,school,park,bar,store,0
+Brooklyn,Midwood,-73.95759523489838,40.62559589869843,restaurant,store,clothing,school,bank,4
+Brooklyn,Prospect Park South,-73.96261316716048,40.64700860318519,restaurant,church,store,school,clothing,1
+Brooklyn,Georgetown,-73.91607483951324,40.62384524478419,store,restaurant,school,church,clothing,4
+Brooklyn,East Williamsburg,-73.93885815269195,40.70849241041548,restaurant,bar,school,store,clothing,2
+Brooklyn,North Side,-73.95880857587582,40.714822906532014,bar,store,clothing,school,church,2
+Brooklyn,South Side,-73.95800095153331,40.71086147265064,bar,store,clothing,restaurant,school,2
+Brooklyn,Ocean Parkway,-73.96836678035541,40.61305976667942,restaurant,school,clothing,bank,supermarket,4
+Brooklyn,Fort Hamilton,-74.03197914537984,40.61476812694226,store,restaurant,bank,school,clothing,4
+Manhattan,Chinatown,-73.99427936255978,40.71561842231432,restaurant,school,bar,church,bank,5
+Manhattan,Washington Heights,-73.93690027985234,40.85190252555305,store,restaurant,clothing,school,supermarket,1
+Manhattan,Inwood,-73.92121042203897,40.86768396449915,restaurant,store,school,clothing,bar,1
+Manhattan,Hamilton Heights,-73.94968791883366,40.823604284811935,restaurant,school,church,store,bar,2
+Manhattan,Manhattanville,-73.9573853935188,40.8169344294978,school,restaurant,church,store,clothing,2
+Manhattan,Central Harlem,-73.94321112603905,40.81597606742414,school,church,store,clothing,restaurant,2
+Manhattan,East Harlem,-73.94418223148524,40.79224946663033,restaurant,school,church,store,supermarket,2
+Manhattan,Upper East Side,-73.96050763135,40.775638573301805,school,bar,bank,store,clothing,2
+Manhattan,Yorkville,-73.94711784471826,40.77592984988488,restaurant,school,store,bank,clothing,2
+Manhattan,Lenox Hill,-73.9588596881376,40.76811265828733,restaurant,school,bar,bank,store,5
+Manhattan,Roosevelt Island,-73.94916769227953,40.76215960576283,restaurant,store,school,bank,church,2
+Manhattan,Upper West Side,-73.97705923630603,40.78765799853485,school,restaurant,store,church,bar,2
+Manhattan,Lincoln Square,-73.98533777001262,40.77352888942166,restaurant,school,store,bank,church,2
+Manhattan,Clinton,-73.99611936309479,40.75910089146212,lodging,office,school,restaurant,bar,5
+Manhattan,Midtown,-73.98166882730304,40.75469110270623,lodging,bank,restaurant,office,clothing,5
+Manhattan,Murray Hill,-73.97833207924127,40.748303077252174,lodging,school,health,bar,church,5
+Queens,Murray Hill,-73.81276269135866,40.76412612261407,church,restaurant,store,korean,school,4
+Manhattan,Chelsea,-74.00311633472813,40.744034706747975,clothing,bar,store,bank,restaurant,5
+Staten Island,Chelsea,-74.1895604551969,40.59472602746295,restaurant,store,office,school,health,0
+Manhattan,Greenwich Village,-73.99991402945902,40.72693288536128,restaurant,school,bar,church,bank,5
+Manhattan,East Village,-73.98222616506416,40.72784677727024,clothing,school,bar,church,bank,5
+Manhattan,Lower East Side,-73.98089031999291,40.71780674892765,school,bar,church,store,restaurant,5
+Manhattan,Tribeca,-74.01068328559087,40.721521967443216,bar,bank,store,clothing,restaurant,5
+Manhattan,Little Italy,-73.99730467208073,40.71932379395907,school,health,bar,church,bank,5
+Manhattan,Soho,-74.00065666959759,40.72218384131794,school,bar,church,bank,store,5
+Manhattan,West Village,-74.00617998126812,40.73443393572434,restaurant,school,bar,bank,store,5
+Manhattan,Manhattan Valley,-73.96428617740655,40.79730704170287,school,store,restaurant,church,bank,2
+Manhattan,Morningside Heights,-73.96389627905332,40.80799973816583,school,church,store,restaurant,bank,2
+Manhattan,Gramercy,-73.98137594833541,40.737209832715,office,school,bar,church,bank,5
+Manhattan,Battery Park City,-74.01686930508617,40.71193198394565,restaurant,school,bar,bank,store,5
+Manhattan,Financial District,-74.0106654452127,40.70710710727048,school,bar,bank,store,restaurant,5
+Queens,Astoria,-73.91565374304234,40.76850859335492,bar,store,restaurant,bank,church,2
+Queens,Woodside,-73.90184166838284,40.74634908860222,church,store,restaurant,bar,bank,2
+Queens,Jackson Heights,-73.88282109164365,40.75198138007367,store,clothing,restaurant,bar,church,2
+Queens,Elmhurst,-73.88165622288388,40.74404850512202,church,store,clothing,restaurant,school,2
+Queens,Howard Beach,-73.8381376460028,40.65422527738487,restaurant,store,bank,italian,church,0
+Queens,Corona,-73.85682497345258,40.74238175015667,store,clothing,restaurant,school,supermarket,1
+Queens,Forest Hills,-73.84447500788983,40.72526378216503,restaurant,store,bank,clothing,school,4
+Queens,Kew Gardens,-73.82981905825703,40.7051790354148,restaurant,store,school,church,bar,4
+Queens,Richmond Hill,-73.83183321446887,40.69794731471763,restaurant,store,church,clothing,school,1
+Queens,Flushing,-73.83177300329582,40.76445419697846,church,store,restaurant,clothing,bank,2
+Queens,Long Island City,-73.93920223915505,40.75021734610528,store,restaurant,school,bar,clothing,2
+Queens,Sunnyside,-73.92691617561577,40.74017628351924,restaurant,store,school,bar,church,4
+Staten Island,Sunnyside,-74.0971255217853,40.61276015756489,store,restaurant,church,school,supermarket,0
+Queens,East Elmhurst,-73.86704147658772,40.76407323883091,restaurant,church,store,school,supermarket,1
+Queens,Maspeth,-73.89621713626859,40.725427374093606,restaurant,store,school,bank,church,4
+Queens,Ridgewood,-73.90143517559589,40.70832315613858,restaurant,store,church,clothing,bank,2
+Queens,Glendale,-73.87074167435605,40.70276242967838,restaurant,store,church,school,clothing,4
+Queens,Rego Park,-73.8578268690537,40.72897409480735,store,restaurant,clothing,bank,school,4
+Queens,Woodhaven,-73.8581104655432,40.68988687915789,restaurant,store,church,school,clothing,1
+Queens,Ozone Park,-73.84320266173447,40.680708468265415,restaurant,store,school,church,clothing,1
+Queens,South Ozone Park,-73.80986478649041,40.66854957767195,restaurant,church,store,school,bar,3
+Queens,College Point,-73.84304528896125,40.784902749260205,store,restaurant,church,park,delis,4
+Queens,Whitestone,-73.81420216610863,40.78129076602694,restaurant,school,store,church,bank,4
+Queens,Bayside,-73.7742736306867,40.76604063281064,church,store,bank,school,bar,4
+Queens,Auburndale,-73.79176243728061,40.76172954903262,restaurant,church,store,school,bar,4
+Queens,Little Neck,-73.7388977558074,40.7708261928267,restaurant,store,church,school,park,4
+Queens,Douglaston,-73.7424982072733,40.76684609790763,restaurant,store,church,school,park,4
+Queens,Glen Oaks,-73.71548118999145,40.74944079974332,restaurant,store,school,bank,health,0
+Queens,Bellerose,-73.72012814826903,40.72857318176675,restaurant,store,indpak,office,church,3
+Queens,Kew Gardens Hills,-73.82087764933566,40.722578244228046,restaurant,store,school,bank,office,4
+Queens,Fresh Meadows,-73.78271337003264,40.7343944653313,restaurant,store,school,bank,church,4
+Queens,Briarwood,-73.81174822458634,40.71093547252271,store,restaurant,school,church,bank,1
+Queens,Jamaica Center,-73.79690165888289,40.70465736068717,church,store,clothing,school,electronics store,1
+Queens,Oakland Gardens,-73.75494976234332,40.74561857141855,restaurant,school,store,church,park,0
+Queens,Queens Village,-73.73871484578424,40.71889309216736,restaurant,store,school,bank,clothing,4
+Queens,Hollis,-73.75925009335594,40.71124344191904,church,restaurant,store,school,pizza,3
+Queens,South Jamaica,-73.7904261313554,40.696911253789885,church,clothing,restaurant,store,school,3
+Queens,St. Albans,-73.75867603727717,40.69444538522359,church,store,restaurant,school,clothing,3
+Queens,Rochdale,-73.77258787620906,40.67521139591733,church,store,restaurant,school,clothing,3
+Queens,Springfield Gardens,-73.76042092682287,40.66623049036858,church,restaurant,store,school,clothing,0
+Queens,Cambria Heights,-73.73526873708026,40.692774639160845,store,restaurant,school,clothing,bank,3
+Queens,Rosedale,-73.73526079428278,40.65981643342808,store,restaurant,clothing,church,school,3
+Queens,Far Rockaway,-73.75497968043872,40.603134432500894,store,church,school,restaurant,supermarket,3
+Queens,Broad Channel,-73.8200548911032,40.60302658351238,store,park,restaurant,bar,church,0
+Queens,Breezy Point,-73.92551196994168,40.55740128845452,bar,store,restaurant,church,tourist attraction,0
+Queens,Steinway,-73.90228960391673,40.775923015642896,restaurant,store,bar,clothing,bank,4
+Queens,Beechhurst,-73.80436451720988,40.79278140360048,restaurant,store,school,church,park,4
+Queens,Bay Terrace,-73.7768022262158,40.782842806245554,store,restaurant,park,bank,clothing,0
+Staten Island,Bay Terrace,-74.13916622175768,40.55398800858462,restaurant,store,school,bank,church,0
+Queens,Edgemere,-73.77613282391705,40.595641807368494,park,store,church,restaurant,school,0
+Queens,Arverne,-73.79199233136943,40.58914394372971,restaurant,store,church,park,supermarket,0
+Queens,Rockaway Beach,-73.82236121088751,40.58280169684559,restaurant,store,school,bar,church,4
+Queens,Neponsit,-73.85754672410827,40.572036730217015,store,restaurant,park,health,bar,0
+Queens,Floral Park,-73.70884705889246,40.74137842194544,store,restaurant,bank,indpak,clothing,3
+Queens,Holliswood,-73.76714166714729,40.7209572076444,store,restaurant,church,school,health,0
+Queens,Jamaica Estates,-73.7872269693666,40.71680483014613,restaurant,clothing,school,bank,church,3
+Queens,Queensboro Hill,-73.82580915110559,40.7445723092867,restaurant,store,school,chinese,church,4
+Queens,Hillcrest,-73.79760300912672,40.7238249018292,restaurant,school,church,store,bank,4
+Queens,Ravenswood,-73.93157506072878,40.76170452605415,school,store,restaurant,bar,bank,2
+Queens,Lindenwood,-73.84963782402441,40.66391841925139,restaurant,store,bank,school,health,4
+Queens,Laurelton,-73.74025607989822,40.66788389660247,restaurant,church,store,caribbean,school,3
+Queens,Lefrak City,-73.8625247141374,40.7360745708308,restaurant,school,store,clothing,church,4
+Queens,Belle Harbor,-73.8540175039252,40.57615556543109,store,restaurant,park,school,health,0
+Queens,Rockaway Park,-73.84153370226186,40.58034295646131,store,restaurant,school,bar,clothing,0
+Queens,Somerville,-73.79664750844047,40.59771061565768,restaurant,church,store,park,supermarket,0
+Queens,Brookville,-73.75175310731153,40.66000322733613,church,store,restaurant,school,park,0
+Queens,Bellaire,-73.73889198912481,40.73301404027834,restaurant,store,church,school,delis,0
+Queens,North Corona,-73.85751790676447,40.7540709990489,store,restaurant,church,clothing,school,1
+Queens,Forest Hills Gardens,-73.8410221123401,40.7146110815117,restaurant,store,bank,clothing,school,2
+Staten Island,St. George,-74.07935312512797,40.6449815710044,restaurant,store,church,clothing,office,4
+Staten Island,New Brighton,-74.08701650516625,40.64061455913511,restaurant,store,church,office,school,4
+Staten Island,Stapleton,-74.07790192660066,40.62692762538176,restaurant,store,church,school,bar,3
+Staten Island,Rosebank,-74.06980526716141,40.61530494652761,restaurant,store,church,school,supermarket,0
+Staten Island,West Brighton,-74.1071817826561,40.63187892654607,restaurant,church,store,school,delis,4
+Staten Island,Grymes Hill,-74.08724819983729,40.624184791313006,store,church,restaurant,school,clothing,3
+Staten Island,Todt Hill,-74.1113288180088,40.59706851814673,restaurant,store,park,school,church,0
+Staten Island,South Beach,-74.0795529253982,40.58024741350956,restaurant,store,health,school,bank,0
+Staten Island,Port Richmond,-74.12943426797008,40.63366930554365,restaurant,store,church,school,clothing,4
+Staten Island,Mariner's Harbor,-74.15008537046981,40.63254639048112,restaurant,store,church,clothing,bank,4
+Staten Island,Port Ivory,-74.17464532993542,40.63968297845542,church,restaurant,store,park,supermarket,0
+Staten Island,Castleton Corners,-74.11918058534842,40.61333593766742,restaurant,store,bank,church,school,4
+Staten Island,New Springville,-74.16496031329827,40.594252379161695,store,restaurant,health,school,clothing,0
+Staten Island,Travis,-74.19073717538116,40.58631375103281,restaurant,store,park,lodging,health,0
+Staten Island,New Dorp,-74.1164794360638,40.57257231820632,restaurant,store,school,bank,health,4
+Staten Island,Oakwood,-74.12156593771896,40.5584622432888,store,restaurant,bank,clothing,school,0
+Staten Island,Great Kills,-74.14932381490992,40.549480228713605,restaurant,store,bank,school,bar,0
+Staten Island,Eltingville,-74.1643308041936,40.542230747450745,restaurant,store,bank,school,supermarket,0
+Staten Island,Annadale,-74.17854866165878,40.53811417474507,restaurant,store,school,health,park,0
+Staten Island,Woodrow,-74.20524582480326,40.54196762288876,restaurant,store,school,park,church,0
+Staten Island,Tottenville,-74.24656934235283,40.50533376115642,restaurant,church,italian,store,bank,0
+Staten Island,Tompkinsville,-74.08055351790115,40.637316067110326,restaurant,store,church,clothing,office,4
+Staten Island,Silver Lake,-74.09629029235458,40.61919310792676,store,restaurant,church,school,clothing,0
+Brooklyn,Ditmas Park,-73.96101312466779,40.643675183340974,church,store,restaurant,clothing,school,1
+Brooklyn,Wingate,-73.93718680559314,40.66094656188111,school,church,store,restaurant,clothing,3
+Brooklyn,Rugby,-73.92688212616955,40.65557231328077,restaurant,church,school,store,clothing,3
+Staten Island,Park Hill,-74.08015734936296,40.60919044434558,store,restaurant,school,supermarket,church,0
+Staten Island,Westerleigh,-74.13304143951704,40.62109047275409,restaurant,store,church,bank,clothing,4
+Staten Island,Graniteville,-74.15315246387762,40.620171512231884,restaurant,store,school,church,bank,4
+Staten Island,Arlington,-74.16510420241124,40.63532509911492,restaurant,store,church,park,supermarket,0
+Staten Island,Arrochar,-74.06712363225574,40.596312571276734,restaurant,store,school,bank,park,0
+Staten Island,Grasmere,-74.0766743627905,40.59826835959991,restaurant,store,school,italian,bank,0
+Staten Island,Old Town,-74.08751118005578,40.59632891379513,restaurant,bank,store,school,park,0
+Staten Island,Dongan Hills,-74.09639905312521,40.58867294819928,restaurant,store,bank,school,pizza,4
+Staten Island,Midland Beach,-74.09348266303591,40.57352690574283,restaurant,store,school,park,health,0
+Staten Island,Grant City,-74.10585598545434,40.57621558711788,restaurant,store,school,bank,health,4
+Staten Island,New Dorp Beach,-74.10432707469124,40.56425549307335,restaurant,store,bank,school,clothing,4
+Staten Island,Huguenot,-74.19174105747814,40.531911920489605,restaurant,school,store,park,church,0
+Staten Island,Pleasant Plains,-74.21983106616777,40.524699376118136,store,restaurant,bank,bar,clothing,0
+Staten Island,Butler Manor,-74.22950350260027,40.50608165346305,restaurant,store,school,bank,church,0
+Staten Island,Charleston,-74.23215775896526,40.53053148283314,restaurant,store,clothing,italian,electronics store,0
+Staten Island,Rossville,-74.21572851113952,40.54940400650072,restaurant,store,pizza,delis,bagels,0
+Staten Island,Arden Heights,-74.18588674583893,40.54928582278321,restaurant,school,store,park,italian,0
+Staten Island,Greenridge,-74.17079414786092,40.5552952361732,restaurant,store,bank,health,school,0
+Staten Island,Heartland Village,-74.15902208156601,40.58913894875281,store,clothing,restaurant,health,hotdogs,4
+Staten Island,Bloomfield,-74.18725638381567,40.60577868452358,store,office,restaurant,health,school,0
+Staten Island,Bulls Head,-74.15940948657122,40.6095918004203,restaurant,school,store,church,bank,0
+Manhattan,Carnegie Hill,-73.95325646837112,40.7826825671257,restaurant,school,store,clothing,bank,2
+Manhattan,Noho,-73.98843368023597,40.72325901885768,school,bar,church,bank,store,5
+Manhattan,Civic Center,-74.00541529873355,40.71522892046282,lodging,school,bar,bank,store,5
+Manhattan,Midtown South,-73.98871313285247,40.7485096643122,school,health,bar,church,bank,5
+Staten Island,Richmond Town,-74.1340572986257,40.56960594275505,store,restaurant,school,pizza,tradamerican,0
+Staten Island,Shore Acres,-74.06667766061771,40.60971934079284,restaurant,store,school,park,pizza,0
+Staten Island,Clifton,-74.072642445484,40.61917845202843,store,restaurant,church,school,bar,3
+Staten Island,Concord,-74.08402364740358,40.6044731896879,store,school,restaurant,supermarket,bank,0
+Staten Island,Emerson Hill,-74.09776206972522,40.606794394801,restaurant,store,school,church,supermarket,0
+Staten Island,Randall Manor,-74.09805062373887,40.63563000681151,restaurant,store,church,park,school,4
+Staten Island,Howland Hook,-74.18622331749823,40.63843283794795,restaurant,bar,church,park,school,0
+Staten Island,Elm Park,-74.1418167896889,40.63014674119383,restaurant,store,church,supermarket,clothing,4
+Brooklyn,Remsen Village,-73.91665331978048,40.65211745179349,restaurant,store,school,church,supermarket,3
+Brooklyn,New Lots,-73.88511776379292,40.6627442796966,school,church,store,supermarket,clothing,3
+Brooklyn,Paerdegat Basin,-73.90233474295836,40.63131755039667,restaurant,store,church,school,caribbean,3
+Brooklyn,Mill Basin,-73.91515391550404,40.61597423962336,restaurant,clothing,store,bank,school,4
+Queens,Jamaica Hills,-73.79646462081593,40.71145964370482,store,clothing,restaurant,school,church,1
+Queens,Utopia,-73.79671678028349,40.73350025429757,restaurant,school,store,church,bank,4
+Queens,Pomonok,-73.80486120040537,40.73493618075478,restaurant,school,store,church,bank,4
+Queens,Astoria Heights,-73.89467996270574,40.7703173929982,restaurant,store,bar,park,church,0
+Bronx,Claremont Village,-73.90119903387667,40.83142834161548,school,church,store,restaurant,supermarket,1
+Bronx,Concourse Village,-73.91584652759009,40.824780490842905,school,church,store,restaurant,clothing,1
+Bronx,Mount Eden,-73.91655551964419,40.84382617671654,school,church,store,restaurant,supermarket,1
+Bronx,Mount Hope,-73.90829930881988,40.84884160724665,school,church,store,restaurant,supermarket,1
+Manhattan,Sutton Place,-73.96355614094303,40.76028033131374,restaurant,school,bar,bank,store,5
+Queens,Hunters Point,-73.95386782130745,40.743414090073536,restaurant,store,bar,park,school,2
+Manhattan,Turtle Bay,-73.96770824581834,40.75204236950722,office,restaurant,bar,bank,clothing,5
+Manhattan,Tudor City,-73.97121928722265,40.7469174107402,office,school,bar,bank,restaurant,5
+Manhattan,Stuyvesant Town,-73.97405170469203,40.73099955477061,school,bar,restaurant,store,church,2
+Manhattan,Flatiron,-73.9909471052826,40.739673047638426,lodging,school,bar,church,bank,5
+Queens,Sunnyside Gardens,-73.91819286431682,40.74565180608076,restaurant,store,church,bar,bank,4
+Queens,Blissville,-73.93244235260178,40.73725071694497,restaurant,store,school,bank,bar,4
+Brooklyn,Fulton Ferry,-73.99550751888415,40.70328109093014,restaurant,bank,church,school,park,2
+Brooklyn,Vinegar Hill,-73.98111603592393,40.70332149882874,restaurant,school,church,store,park,2
+Brooklyn,Weeksville,-73.93053108817338,40.67503986503237,school,restaurant,church,store,clothing,2
+Brooklyn,Broadway Junction,-73.90331684852599,40.67786104769531,church,store,restaurant,school,clothing,3
+Brooklyn,Dumbo,-73.9887528074504,40.70317632822692,restaurant,school,church,store,park,2
+Staten Island,Manor Heights,-74.12059399718001,40.60180957631444,restaurant,store,church,bank,school,0
+Staten Island,Willowbrook,-74.13208447484298,40.60370692627371,restaurant,store,bank,church,school,0
+Staten Island,Sandy Ground,-74.21776636068567,40.541139922091766,restaurant,store,park,bar,clothing,0
+Staten Island,Egbertville,-74.12727240604946,40.579118742961214,restaurant,school,park,health,church,0
+Queens,Roxbury,-73.89213760232822,40.56737588957032,park,church,tourist attraction,icecream,foodtrucks,0
+Brooklyn,Homecrest,-73.95918459428702,40.598525095137255,restaurant,store,clothing,bank,school,4
+Queens,Middle Village,-73.88114319200604,40.716414511158185,store,restaurant,bank,delis,school,4
+Staten Island,Prince's Bay,-74.20152556457658,40.52626406734812,store,restaurant,school,church,bank,0
+Staten Island,Lighthouse Hill,-74.13792663771568,40.57650629379489,school,park,church,tourist attraction,store,0
+Staten Island,Richmond Valley,-74.22957080626941,40.51954145748909,store,restaurant,bank,clothing,italian,4
+Queens,Malba,-73.82667757138641,40.79060155670148,store,restaurant,bank,church,office,0
+Brooklyn,Highland Park,-73.890345709872,40.6819989345173,church,store,school,supermarket,burgers,3
+Brooklyn,Madison,-73.94841515328893,40.60937770113766,store,school,bank,restaurant,clothing,4
+Bronx,Bronxdale,-73.86172577555115,40.85272297633017,restaurant,store,church,school,bank,4
+Bronx,Allerton,-73.85931863221647,40.86578787802982,restaurant,church,school,clothing,bank,3
+Bronx,Kingsbridge Heights,-73.90152264513144,40.8703923914147,restaurant,store,clothing,school,church,1
+Brooklyn,Erasmus,-73.94817709920184,40.64692606658579,church,store,clothing,school,supermarket,3
+Manhattan,Hudson Yards,-74.00011136202637,40.75665808227519,school,bar,bank,store,clothing,5
+Queens,Hammels,-73.80553002968718,40.58733774018741,restaurant,store,church,health,supermarket,0
+Queens,Bayswater,-73.76596781445627,40.61132169128384,store,restaurant,church,school,clothing,0
+Queens,Queensbridge,-73.94563070334091,40.75609129709471,restaurant,school,store,church,lodging,4
+Staten Island,Fox Hills,-74.08173992211962,40.61731079252983,store,restaurant,church,supermarket,school,0
