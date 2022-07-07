@@ -1,0 +1,262 @@
+,neighborhood,average_price
+0,Chelsea,5712
+1,East Village,3805
+2,Flatiron/Union Square,8128
+3,Gramercy Park,4716
+4,Greenwich Village,6841
+5,Battery Park City,5957
+6,Financial District,5910
+7,Lower East Side,4119
+8,NoHo,6787
+9,NoLiTa/Little Italy,5611
+10,SoHo,7869
+11,Tribeca,6316
+12,West Village,6466
+13,Beekman/Sutton Place,4503
+14,Midtown East,6272
+15,Midtown West,6825
+16,Murray Hill,4280
+17,Turtle Bay/United Nations,5829
+18,Carnegie Hill,5662
+19,Lenox Hill,4813
+20,Park/Fifth Ave. to 79th St.,11992
+21,Roosevelt Island,3952
+22,Yorkville,4080
+23,Broadway Corridor,4248
+24,Central Park West,6914
+25,Lincoln Center,5758
+26,Morningside Heights,3136
+27,Riverside Dr./West End Ave.,5183
+28,East Harlem,2881
+29,Hamilton Heights,2468
+30,Harlem,2879
+31,Inwood,1953
+32,Washington Heights,2325
+33,Bedford-Stuyvesant,2542
+34,Boerum Hill,3556
+35,Brooklyn Heights,5104
+36,Bushwick,2250
+37,Carroll Gardens,3462
+38,Clinton Hill,3210
+39,Cobble Hill,3795
+40,Crown Heights,2471
+41,Downtown Brooklyn,4064
+42,DUMBO,4790
+43,Fort Greene,4110
+44,Gowanus,2604
+45,Greenpoint,2985
+46,Kensington,2099
+47,Park Slope,3460
+48,Prospect Heights,3289
+49,Prospect Lefferts Gardens,2590
+50,Red Hook,1647
+51,South Slope - Greenwood Heights,2857
+52,Sunset Park,2028
+53,Williamsburg,3138
+54,Windsor Terrace,2765
+55,Allerton,1625
+56,Annadale,1450
+57,ArdenHeights,2250
+58,Astoria,1883
+59,Auburndale,1917
+60,BathBeach,2133
+61,BatteryParkCity,3121
+62,BayRidge,1966
+63,Bayside,2000
+64,Bedford0Stuyvesant,1942
+65,BedfordPark,1679
+66,Bellerose,1975
+67,Belmont,1753
+68,Bensonhurst,2498
+69,BergenBeach,1700
+70,Blissville,1800
+71,BoerumHill,2499
+72,BoroughPark,1724
+73,Bowery,2783
+74,Briarwood,1729
+75,BrightonBeach,1883
+76,BronxPark,2215
+77,BrooklynHeights,2633
+78,BrooklynNavyYard,3913
+79,Brookville,2250
+80,Brownsville,1811
+81,BullsHead,1288
+82,Canarsie,1817
+83,CarrollGardens,2525
+84,CastleHill,2300
+85,CastletonCorners,1400
+86,CentralHarlem,2127
+87,CentralPark,3116
+88,Chinatown,2683
+89,CityIsland,1975
+90,CivicCenter,2993
+91,ClasonPoint,1833
+92,Clearview,1900
+93,ClintonHill,2383
+94,Co0OpCity,1575
+95,CobbleHill,2300
+96,CollegePoint,1790
+97,Concord,1600
+98,Concourse,1702
+99,ConcourseVillage,1882
+100,ConeyIsland,2300
+101,Corona,1683
+102,CountryClub,1750
+103,CrotonaParkEast,2000
+104,CrownHeights,1936
+105,CypressHills,1947
+106,DonganHills,1550
+107,Douglaston,2216
+108,DowntownBrooklyn,3172
+109,DykerHeights,1917
+110,EastElmhurst,1850
+111,EastFlatbush,2125
+112,EastHarlem,1967
+113,EastNewYork,1773
+114,EastTremont,1800
+115,EastVillage,2403
+116,Elmhurst,1866
+117,Eltingville,1550
+118,FarRockaway,1919
+119,FinancialDistrict,2957
+120,Flatbush,1845
+121,FlatironDistrict,6292
+122,Flatlands,1933
+123,FloralPark,2300
+124,Flushing,1833
+125,FlushingMeadows0CoronaPark,1975
+126,FordhamHeights,1742
+127,FordhamManor,1771
+128,ForestHills,1925
+129,ForestPark,1717
+130,FortGreene,2567
+131,FortWadsworth,4473
+132,Foxhurst,1416
+133,FreshMeadows,1975
+134,GarmentDistrict,3366
+135,GerritsenBeach,2600
+136,GlenOaks,1869
+137,Glendale,1692
+138,GramercyPark,3143
+139,Graniteville,1850
+140,GrantCity,1900
+141,Gravesend,3079
+142,GreatKills,1575
+143,GreenwichVillage,3432
+144,GreenwoodHeights,2033
+145,GrymesHill,1500
+146,Hell'sKitchen,2885
+147,Highbridge,1742
+148,Hillcrest,1875
+149,Hollis,1800
+150,Holliswood,1874
+151,HowardBeach,1742
+152,Huguenot,1350
+153,HuntsPoint,1425
+154,JacksonHeights,1842
+155,Jamaica,1872
+156,JamaicaEstates,1888
+157,JamaicaHills,1758
+158,KewGardens,1792
+159,KewGardensHills,1750
+160,Kingsbridge,1799
+161,KipsBay,2831
+162,Koreatown,2504
+163,Laurelton,1562
+164,LittleItaly,3066
+165,LittleNeck,2575
+166,LongIslandCity,2590
+167,Longwood,1377
+168,LowerEastSide,2615
+169,ManhattanBeach,1873
+170,ManorHeights,1325
+171,Mapleton,1670
+172,MarbleHill,1613
+173,MarinePark,1875
+174,Maspeth,1917
+175,Melrose,1848
+176,MiddleVillage,1950
+177,MidlandBeach,1700
+178,MidtownEast,3303
+179,Midwood,1963
+180,MillBasin,1950
+181,MorrisHeights,1675
+182,MorrisPark,1717
+183,Morrisania,1879
+184,MottHaven,2232
+185,MountEden,1645
+186,MountHope,1571
+187,MurrayHill,3476
+188,NewBrighton,1800
+189,NewDorp,1525
+190,NewSpringville,1650
+191,NoLita,3004
+192,NoMad,4957
+193,Norwood,1577
+194,Oakwood,1560
+195,OceanHill,1867
+196,OzonePark,1917
+197,ParkSlope,2425
+198,Parkchester,1996
+199,PelhamBay,1583
+200,PelhamGardens,1350
+201,PelhamParkway,1916
+202,Pomonok,1900
+203,Prince'sBay,1400
+204,ProspectHeights,2330
+205,ProspectPark,2933
+206,QueensVillage,1783
+207,RedHook,2383
+208,RegoPark,1941
+209,RichmondHill,1783
+210,Ridgewood,1870
+211,Riverdale,1942
+212,Rochdale,2148
+213,RockawayBeach,1833
+214,RooseveltIsland,3381
+215,Rosebank,1700
+216,Rosedale,2063
+217,Rossville,1400
+218,SeaGate,1650
+219,SheepsheadBay,1812
+220,SilverLake,2100
+221,Soho,3048
+222,SouthBeach,1800
+223,SouthJamaica,2100
+224,SouthOzonePark,1802
+225,SpringfieldGardens,2050
+226,St.Albans,1875
+227,St.George,1999
+228,Stapleton,2328
+229,StuyvesantTown0PeterCooperVillage,3785
+230,SunsetPark,3175
+231,TheaterDistrict,3524
+232,ThrogsNeck,2326
+233,Tompkinsville,2344
+234,Tottenville,1400
+235,Travis0Chelsea,1800
+236,TwoBridges,2227
+237,Unionport,1608
+238,UniversityHeights,1648
+239,UpperEastSide,2529
+240,UpperWestSide,3025
+241,VanCortlandtPark,1628
+242,VanNest,2038
+243,VinegarHill,3200
+244,Wakefield,1625
+245,WashingtonHeights,1863
+246,WestBrighton,2100
+247,WestFarms,1600
+248,WestHarlem,2328
+249,WestVillage,3535
+250,WestchesterVillage,1508
+251,Westerleigh,1525
+252,Whitestone,2075
+253,Williamsbridge,1900
+254,Willowbrook,1375
+255,WindsorTerrace,2349
+256,Woodhaven,1702
+257,WoodlawnHeights,1900
+258,Woodrow,1400
+259,Woodside,1808
+260,Woodstock,1950
