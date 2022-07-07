@@ -1,0 +1,307 @@
+neighborhood,cluster_id
+Wakefield,0
+Co-op City,0
+Eastchester,0
+Fieldston,0
+Riverdale,0
+Kingsbridge,3
+Marble Hill,3
+Woodlawn,0
+Norwood,3
+Williamsbridge,0
+Baychester,0
+Pelham Parkway,0
+City Island,1
+Bedford Park,3
+University Heights,3
+Morris Heights,3
+Fordham,3
+East Tremont,3
+West Farms,3
+High  Bridge,3
+Melrose,3
+Mott Haven,3
+Port Morris,0
+Longwood,3
+Hunts Point,1
+Morrisania,3
+Soundview,0
+Clason Point,1
+Throgs Neck,1
+Country Club,0
+Parkchester,3
+Westchester Square,3
+Van Nest,3
+Morris Park,0
+Belmont,3
+Spuyten Duyvil,0
+North Riverdale,0
+Pelham Bay,0
+Schuylerville,0
+Edgewater Park,0
+Castle Hill,0
+Olinville,0
+Pelham Gardens,0
+Concourse,3
+Unionport,3
+Edenwald,0
+Bay Ridge,3
+Bensonhurst,3
+Sunset Park,3
+Greenpoint,2
+Gravesend,0
+Brighton Beach,3
+Sheepshead Bay,0
+Manhattan Terrace,3
+Flatbush,3
+Crown Heights,3
+East Flatbush,0
+Kensington,3
+Windsor Terrace,0
+Prospect Heights,2
+Brownsville,0
+Williamsburg,2
+Bushwick,2
+Bedford Stuyvesant,2
+Brooklyn Heights,2
+Cobble Hill,2
+Carroll Gardens,2
+Red Hook,1
+Gowanus,2
+Fort Greene,2
+Park Slope,2
+Cypress Hills,3
+East New York,3
+Starrett City,0
+Canarsie,0
+Flatlands,0
+Mill Island,1
+Manhattan Beach,0
+Coney Island,0
+Bath Beach,3
+Borough Park,3
+Dyker Heights,3
+Gerritsen Beach,0
+Marine Park,0
+Clinton Hill,2
+Sea Gate,1
+Downtown,2
+Boerum Hill,2
+Prospect Lefferts Gardens,3
+Ocean Hill,3
+City Line,3
+Bergen Beach,1
+Midwood,3
+Prospect Park South,3
+Georgetown,0
+East Williamsburg,2
+North Side,2
+South Side,2
+Ocean Parkway,3
+Fort Hamilton,0
+Chinatown,2
+Washington Heights,3
+Inwood,3
+Hamilton Heights,2
+Manhattanville,2
+Central Harlem,2
+East Harlem,3
+Upper East Side,2
+Yorkville,2
+Lenox Hill,2
+Roosevelt Island,3
+Upper West Side,2
+Lincoln Square,2
+Clinton,2
+Midtown,2
+Murray Hill,2
+Murray Hill,0
+Chelsea,2
+Chelsea,1
+Greenwich Village,2
+East Village,2
+Lower East Side,2
+Tribeca,2
+Little Italy,2
+Soho,2
+West Village,2
+Manhattan Valley,2
+Morningside Heights,3
+Gramercy,2
+Battery Park City,2
+Financial District,2
+Astoria,2
+Woodside,3
+Jackson Heights,3
+Elmhurst,3
+Howard Beach,1
+Corona,3
+Forest Hills,3
+Kew Gardens,3
+Richmond Hill,3
+Flushing,3
+Long Island City,3
+Sunnyside,0
+Sunnyside,1
+East Elmhurst,3
+Maspeth,0
+Ridgewood,3
+Glendale,0
+Rego Park,3
+Woodhaven,3
+Ozone Park,3
+South Ozone Park,0
+College Point,0
+Whitestone,0
+Bayside,0
+Auburndale,0
+Little Neck,0
+Douglaston,0
+Glen Oaks,1
+Bellerose,0
+Kew Gardens Hills,0
+Fresh Meadows,0
+Briarwood,3
+Jamaica Center,3
+Oakland Gardens,1
+Queens Village,0
+Hollis,0
+South Jamaica,3
+St. Albans,0
+Rochdale,0
+Springfield Gardens,1
+Cambria Heights,0
+Rosedale,0
+Far Rockaway,0
+Broad Channel,1
+Breezy Point,1
+Steinway,0
+Beechhurst,0
+Bay Terrace,1
+Bay Terrace,1
+Edgemere,1
+Arverne,1
+Rockaway Beach,0
+Neponsit,1
+Floral Park,0
+Holliswood,1
+Jamaica Estates,0
+Queensboro Hill,0
+Hillcrest,0
+Ravenswood,2
+Lindenwood,0
+Laurelton,0
+Lefrak City,3
+Belle Harbor,1
+Rockaway Park,1
+Somerville,1
+Brookville,1
+Bellaire,1
+North Corona,3
+Forest Hills Gardens,2
+St. George,0
+New Brighton,0
+Stapleton,0
+Rosebank,1
+West Brighton,0
+Grymes Hill,0
+Todt Hill,1
+South Beach,1
+Port Richmond,3
+Mariner's Harbor,0
+Port Ivory,1
+Castleton Corners,0
+New Springville,1
+Travis,1
+New Dorp,0
+Oakwood,1
+Great Kills,1
+Eltingville,1
+Annadale,1
+Woodrow,1
+Tottenville,1
+Tompkinsville,3
+Silver Lake,1
+Ditmas Park,3
+Wingate,0
+Rugby,0
+Park Hill,1
+Westerleigh,0
+Graniteville,0
+Arlington,1
+Arrochar,1
+Grasmere,1
+Old Town,1
+Dongan Hills,0
+Midland Beach,1
+Grant City,0
+New Dorp Beach,0
+Huguenot,1
+Pleasant Plains,1
+Butler Manor,1
+Charleston,1
+Rossville,1
+Arden Heights,1
+Greenridge,1
+Heartland Village,0
+Bloomfield,1
+Bulls Head,1
+Carnegie Hill,2
+Noho,2
+Civic Center,2
+Midtown South,2
+Richmond Town,1
+Shore Acres,1
+Clifton,0
+Concord,1
+Emerson Hill,1
+Randall Manor,0
+Howland Hook,1
+Elm Park,0
+Remsen Village,0
+New Lots,3
+Paerdegat Basin,0
+Mill Basin,0
+Jamaica Hills,3
+Utopia,0
+Pomonok,0
+Astoria Heights,1
+Claremont Village,3
+Concourse Village,3
+Mount Eden,3
+Mount Hope,3
+Sutton Place,2
+Hunters Point,2
+Turtle Bay,2
+Tudor City,2
+Stuyvesant Town,2
+Flatiron,2
+Sunnyside Gardens,3
+Blissville,0
+Fulton Ferry,2
+Vinegar Hill,2
+Weeksville,3
+Broadway Junction,3
+Dumbo,2
+Manor Heights,1
+Willowbrook,1
+Sandy Ground,1
+Egbertville,1
+Roxbury,1
+Homecrest,3
+Middle Village,0
+Prince's Bay,1
+Lighthouse Hill,1
+Richmond Valley,0
+Malba,1
+Highland Park,0
+Madison,0
+Bronxdale,0
+Allerton,0
+Kingsbridge Heights,3
+Erasmus,3
+Hudson Yards,2
+Hammels,1
+Bayswater,1
+Queensbridge,0
+Fox Hills,0
